@@ -1,2 +1,6 @@
-# fullstack-bootcamp-2026
-Intensive 16-week Full Stack JavaScript Bootcamp (JS, TS, React, Node, PostgreSQL)
+# Full Stack Bootcamp 2026
+
+Goal: Become a professional Full Stack JavaScript Developer.
+
+Structure:
+- Week 01: JavaScript Fundamentals
